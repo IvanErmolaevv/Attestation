@@ -1,0 +1,15 @@
+E:\Программирование\Практические задания C#\Atestare\Task64\bin\Debug\net6.0\Task64.exe
+E:\Программирование\Практические задания C#\Atestare\Task64\bin\Debug\net6.0\Task64.deps.json
+E:\Программирование\Практические задания C#\Atestare\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+E:\Программирование\Практические задания C#\Atestare\Task64\bin\Debug\net6.0\Task64.dll
+E:\Программирование\Практические задания C#\Atestare\Task64\bin\Debug\net6.0\Task64.pdb
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.dll
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\refint\Task64.dll
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.pdb
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+E:\Программирование\Практические задания C#\Atestare\Task64\obj\Debug\net6.0\ref\Task64.dll
