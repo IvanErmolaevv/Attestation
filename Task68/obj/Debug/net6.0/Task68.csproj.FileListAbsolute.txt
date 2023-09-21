@@ -1,0 +1,15 @@
+E:\Программирование\Практические задания C#\Atestare\Task68\bin\Debug\net6.0\Task68.exe
+E:\Программирование\Практические задания C#\Atestare\Task68\bin\Debug\net6.0\Task68.deps.json
+E:\Программирование\Практические задания C#\Atestare\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+E:\Программирование\Практические задания C#\Atestare\Task68\bin\Debug\net6.0\Task68.dll
+E:\Программирование\Практические задания C#\Atestare\Task68\bin\Debug\net6.0\Task68.pdb
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.dll
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\refint\Task68.dll
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.pdb
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+E:\Программирование\Практические задания C#\Atestare\Task68\obj\Debug\net6.0\ref\Task68.dll
